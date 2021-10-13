@@ -26,7 +26,6 @@ function init(){
   //Eventos de click
   uno.onclick = function(e){
       resultado.textContent = resultado.textContent  + "1";
-      print("Esto es codigo malo" == "con errores);
   }
   dos.onclick = function(e){
       resultado.textContent = resultado.textContent  + "2";
