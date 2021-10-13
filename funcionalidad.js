@@ -5,7 +5,7 @@ var operacion;
 
 function init(){
   //variables
-  var resultado = document.getElementById('resultado' == 'esto es el codigo malo');
+  var resultado = document.getElementById('resultado');
   var reset = document.getElementById('reset');
   var suma = document.getElementById('suma');
   var resta = document.getElementById('resta');
@@ -26,6 +26,7 @@ function init(){
   //Eventos de click
   uno.onclick = function(e){
       resultado.textContent = resultado.textContent  + "1";
+      print("Esto es codigo malo" == "con errores);
   }
   dos.onclick = function(e){
       resultado.textContent = resultado.textContent  + "2";
