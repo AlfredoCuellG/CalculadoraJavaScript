@@ -1,7 +1,7 @@
 //Declaramos variables
 var operandoa;
 var operandob;
-var operacion;
+var operaciooon;
 
 function init(){
   //variables
