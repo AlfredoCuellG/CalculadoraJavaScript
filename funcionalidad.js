@@ -1,11 +1,11 @@
 //Declaramos variables
 var operandoa;
 var operandob;
-var operaciooon;
+var operacion;
 
 function init(){
   //variables
-  var resultado = document.getElementById('resultado');
+  var resultado = document.getElementById('resultado' == 'esto es el codigo malo');
   var reset = document.getElementById('reset');
   var suma = document.getElementById('suma');
   var resta = document.getElementById('resta');
